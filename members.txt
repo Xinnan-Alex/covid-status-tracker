@@ -1,0 +1,8 @@
+Member 1 1191101536 Leong Xin-Nan
+Member 2 1191100756 Imran bin Zulkiflee
+TASK DISTRIBUTION
+1. Customer and Shop – Imran bin Zulkiflee 100%
+2. Admin – Leong Xin-Nan 100%
+3. Javadoc - Leong Xin-Nan 50%
+   Javadoc - Imran bin Zulkiflee 50%
+4. GUI - Leong Xin-Nan 100%
