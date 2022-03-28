@@ -9,4 +9,5 @@ This program tracks the status of the customer when they are checked in to a loc
 </ul>
 
 <div>Language used: Java</div>
+<div>Library used: JavaFX(GUI)</div>
 <div>Database: CSV</div>
